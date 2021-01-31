@@ -1,0 +1,22 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urmilshah08/cs526Data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urmilshah08/cs526Data/issues"
+  },
+  "homepage": "https://github.com/urmilshah08/cs526Data#readme",
+  "dependencies": {
+    "csv": "^5.3.2"
+  }
+}
