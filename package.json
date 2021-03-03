@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/urmilshah08/cs526Data#readme",
   "dependencies": {
-    "csv": "^5.3.2"
+    "csv": "^5.3.2",
+    "csv-parser": "^3.0.0"
   }
 }
